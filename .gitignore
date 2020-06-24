@@ -1,0 +1,71 @@
+# Project exclude paths
+/.gradle/
+/Problems/Boxes/out/
+/Problems/Boxes/out/production/classes/
+/Problems/Check a number is positive/out/
+/Problems/Check a number is positive/out/production/classes/
+/Problems/Check the order/out/
+/Problems/Check the order/out/production/classes/
+/Problems/Count the numbers/out/
+/Problems/Count the numbers/out/production/classes/
+/Problems/Counting positive numbers/out/
+/Problems/Counting positive numbers/out/production/classes/
+/Problems/Digits or not/out/
+/Problems/Digits or not/out/production/classes/
+/Problems/Fizz Buzz/out/
+/Problems/Fizz Buzz/out/production/classes/
+/Problems/Get last digit/out/
+/Problems/Get last digit/out/production/classes/
+/Problems/Grades/out/
+/Problems/Grades/out/production/classes/
+/Problems/Healthy sleep/out/
+/Problems/Healthy sleep/out/production/classes/
+/Problems/Interval/out/
+/Problems/Interval/out/production/classes/
+/Problems/Knights/out/
+/Problems/Knights/out/production/classes/
+/Problems/Kotlin x5/out/
+/Problems/Kotlin x5/out/production/classes/
+/Problems/Leap year/out/
+/Problems/Leap year/out/production/classes/
+/Problems/Maximum element divisible by 4/out/
+/Problems/Maximum element divisible by 4/out/production/classes/
+/Problems/Number dividers/out/
+/Problems/Number dividers/out/production/classes/
+/Problems/Odd or even/out/
+/Problems/Odd or even/out/production/classes/
+/Problems/Printing each word in a new line/out/
+/Problems/Printing each word in a new line/out/production/classes/
+/Problems/Queens/out/
+/Problems/Queens/out/production/classes/
+/Problems/Size of parts/out/
+/Problems/Size of parts/out/production/classes/
+/Problems/The eternal truth/out/
+/Problems/The eternal truth/out/production/classes/
+/Problems/The longest sequence/out/
+/Problems/The longest sequence/out/production/classes/
+/Problems/The max of three numbers/out/
+/Problems/The max of three numbers/out/production/classes/
+/Problems/The max of two numbers without else-branch/out/
+/Problems/The max of two numbers without else-branch/out/production/classes/
+/Problems/The minimum value of N numbers/out/
+/Problems/The minimum value of N numbers/out/production/classes/
+/Problems/The product of numbers from a to b/out/
+/Problems/The product of numbers from a to b/out/production/classes/
+/Problems/The result of a game in Tic-Tac-Toe/out/
+/Problems/The result of a game in Tic-Tac-Toe/out/production/classes/
+/Problems/The roots of equation/out/
+/Problems/The roots of equation/out/production/classes/
+/Problems/The sum of integers from a to b/out/
+/Problems/The sum of integers from a to b/out/production/classes/
+/Problems/The sum of N numbers/out/
+/Problems/The sum of N numbers/out/production/classes/
+/Problems/Triangle/out/
+/Problems/Triangle/out/production/classes/
+/Problems/Vowel or not/out/
+/Problems/Vowel or not/out/production/classes/
+/Problems/Your name/out/
+/Problems/Your name/out/production/classes/
+/Simple Chatty Bot/task/out/
+/Simple Chatty Bot/task/out/production/classes/
+/Simple Chatty Bot/task/out/test/classes/
